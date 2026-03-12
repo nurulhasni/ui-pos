@@ -1,0 +1,384 @@
+[1m[31mERROR[39m[22m in [1m  [1m[31mError[39m[22m[1m: Child compilation [1m[31mfailed[39m[22m[1m:
+  Module [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './images/shape/grid-01.svg' in 'D:\Pro  jects\ui-pos\src\pages'
+  ModuleNotFoundError: Module [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './images/shape/gr  id-01.svg' in 'D:\Projects\ui-pos\src\pages'
+      at D:\Projects\ui-pos\node_modules\webpack\lib\Compilation.js:2073:28
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1041  :13
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:10:1)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:437:  22
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:9:1)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:622:  22
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:181:  10
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:894:  25
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1126  :8
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1255  :5
+      at D:\Projects\ui-pos\node_modules\neo-async\async.js:6883:13
+      at Array.<anonymous> (D:\Projects\ui-pos\node_modules\webpack\lib\NormalMo  duleFactory.js:1230:14)
+      at arrayEachFunc (D:\Projects\ui-pos\node_modules\neo-async\async.js:2517:  19)
+      at Object.parallel (D:\Projects\ui-pos\node_modules\neo-async\async.js:685  8:9)
+      at NormalModuleFactory._resolveResourceErrorHints (D:\Projects\ui-pos\node  _modules\webpack\lib\NormalModuleFactory.js:1154:12)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1086  :18
+      at finishWithoutResolve (D:\Projects\ui-pos\node_modules\enhanced-resolve\  lib\Resolver.js:589:11)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:678:14      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:16:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:27:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\DescriptionFilePlu  gin.js:89:43
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:15:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:15:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:16:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\RootsPlugin.js:38:  38
+      at _next2 (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\Hoo  kCodeFactory.js:31:10), <anonymous>:8:1)
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:31:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\ConditionalPlugin.  js:40:47
+      at _next1 (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\Hoo  kCodeFactory.js:31:10), <anonymous>:23:1)
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:46:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\ConditionalPlugin.  js:40:47
+      at _next0 (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\Hoo  kCodeFactory.js:31:10), <anonymous>:38:1)
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:60:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:27:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\DescriptionFilePlu  gin.js:89:43
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:16:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:15:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\DirectoryExistsPlu  gin.js:43:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:88  :21)
+  Module build [1m[31mfailed[39m[22m[1m (from ./node_modules/html-loader/dist/cjs.js):
+  [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'D:\Projects\ui-pos\src\pages\p  artials\preloader.html'
+      at Object.readFileSync (node:fs:439:20)
+      at CacheBackend.provideSync (D:\Projects\ui-pos\node_modules\enhanced-reso  lve\lib\CachedInputFileSystem.js:316:65)
+      at D:\Projects\ui-pos\webpack.config.js:16:26
+      at String.replace (<anonymous>)
+      at Object.processNestedHtml [as preprocessor] (D:\Projects\ui-pos\webpack.  config.js:12:15)
+      at Object.loader (D:\Projects\ui-pos\node_modules\html-loader\dist\index.j  s:22:29)
+  ModuleBuildError: Module build [1m[31mfailed[39m[22m[1m (from ./node_modules/html-loader/dist/cj  s.js):
+  [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'D:\Projects\ui-pos\src\pages\p  artials\preloader.html'
+      at Object.readFileSync (node:fs:439:20)
+      at CacheBackend.provideSync (D:\Projects\ui-pos\node_modules\enhanced-reso  lve\lib\CachedInputFileSystem.js:316:65)
+      at D:\Projects\ui-pos\webpack.config.js:16:26
+      at String.replace (<anonymous>)
+      at Object.processNestedHtml [as preprocessor] (D:\Projects\ui-pos\webpack.  config.js:12:15)
+      at Object.loader (D:\Projects\ui-pos\node_modules\html-loader\dist\index.j  s:22:29)
+      at processResult (D:\Projects\ui-pos\node_modules\webpack\lib\NormalModule  .js:961:19)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModule.js:1163:5
+      at D:\Projects\ui-pos\node_modules\loader-runner\lib\LoaderRunner.js:499:1  1
+      at runSyncOrAsyncCallback (D:\Projects\ui-pos\node_modules\loader-runner\l  ib\LoaderRunner.js:259:19)
+  
+  - Compilation.js:2073 
+    [ui-pos]/[webpack]/lib/Compilation.js:2073:28
+  
+  - NormalModuleFactory.js:1041 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1041:13
+  
+  
+  - NormalModuleFactory.js:437 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:437:22
+  
+  
+  - NormalModuleFactory.js:622 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:622:22
+  
+  - NormalModuleFactory.js:181 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:181:10
+  
+  - NormalModuleFactory.js:894 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:894:25
+  
+  - NormalModuleFactory.js:1126 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1126:8
+  
+  - NormalModuleFactory.js:1255 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1255:5
+  
+  - async.js:6883 
+    [ui-pos]/[neo-async]/async.js:6883:13
+  
+  - NormalModuleFactory.js:1230 Array.<anonymous>
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1230:14
+  
+  - async.js:2517 arrayEachFunc
+    [ui-pos]/[neo-async]/async.js:2517:19
+  
+  - async.js:6858 Object.parallel
+    [ui-pos]/[neo-async]/async.js:6858:9
+  
+  - NormalModuleFactory.js:1154 NormalModuleFactory._resolveResourceErrorHints
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1154:12
+  
+  - NormalModuleFactory.js:1086 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1086:18
+  
+  - Resolver.js:589 finishWithoutResolve
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:589:11
+  
+  - Resolver.js:678 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:678:14
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - DescriptionFilePlugin.js:89 
+    [ui-pos]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:89:43
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - RootsPlugin.js:38 
+    [ui-pos]/[enhanced-resolve]/lib/RootsPlugin.js:38:38
+  
+  
+  
+  - ConditionalPlugin.js:40 
+    [ui-pos]/[enhanced-resolve]/lib/ConditionalPlugin.js:40:47
+  
+  
+  
+  - ConditionalPlugin.js:40 
+    [ui-pos]/[enhanced-resolve]/lib/ConditionalPlugin.js:40:47
+  
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - DescriptionFilePlugin.js:89 
+    [ui-pos]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:89:43
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - DirectoryExistsPlugin.js:43 
+    [ui-pos]/[enhanced-resolve]/lib/DirectoryExistsPlugin.js:43:15
+  
+  - task_queues:88 process.processTicksAndRejections
+    node:internal/process/task_queues:88:21
+  
+  - Module build [1m[31mfailed[39m[22m[1m (from ./node_modules/html-loader/dist/cjs.js):
+  
+  - [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'D:\Projects\ui-pos\src\pages    \partials\preloader.html'
+  
+  - node:fs:439 Object.readFileSync
+    node:fs:439:20
+  
+  - CachedInputFileSystem.js:316 CacheBackend.provideSync
+    [ui-pos]/[enhanced-resolve]/lib/CachedInputFileSystem.js:316:65
+  
+[39m[22m
+
+[1m[31mERROR[39m[22m in [1m  [1m[31mError[39m[22m[1m: Child compilation [1m[31mfailed[39m[22m[1m:
+  Module [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './images/shape/grid-01.svg' in 'D:\Pro  jects\ui-pos\src\pages'
+  ModuleNotFoundError: Module [1m[31mnot found[39m[22m[1m: [1m[31mError[39m[22m[1m: Can't resolve './images/shape/gr  id-01.svg' in 'D:\Projects\ui-pos\src\pages'
+      at D:\Projects\ui-pos\node_modules\webpack\lib\Compilation.js:2073:28
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1041  :13
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:10:1)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:437:  22
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:9:1)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:622:  22
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:181:  10
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:894:  25
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1126  :8
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1255  :5
+      at D:\Projects\ui-pos\node_modules\neo-async\async.js:6883:13
+      at Array.<anonymous> (D:\Projects\ui-pos\node_modules\webpack\lib\NormalMo  duleFactory.js:1230:14)
+      at arrayEachFunc (D:\Projects\ui-pos\node_modules\neo-async\async.js:2517:  19)
+      at Object.parallel (D:\Projects\ui-pos\node_modules\neo-async\async.js:685  8:9)
+      at NormalModuleFactory._resolveResourceErrorHints (D:\Projects\ui-pos\node  _modules\webpack\lib\NormalModuleFactory.js:1154:12)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModuleFactory.js:1086  :18
+      at finishWithoutResolve (D:\Projects\ui-pos\node_modules\enhanced-resolve\  lib\Resolver.js:589:11)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:678:14      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:16:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:27:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\DescriptionFilePlu  gin.js:89:43
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:15:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:15:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:16:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\RootsPlugin.js:38:  38
+      at _next2 (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\Hoo  kCodeFactory.js:31:10), <anonymous>:8:1)
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:31:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\ConditionalPlugin.  js:40:47
+      at _next1 (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\Hoo  kCodeFactory.js:31:10), <anonymous>:23:1)
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:46:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\ConditionalPlugin.  js:40:47
+      at _next0 (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\Hoo  kCodeFactory.js:31:10), <anonymous>:38:1)
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:60:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:27:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\DescriptionFilePlu  gin.js:89:43
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:16:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\Resolver.js:739:5
+      at eval (eval at create (D:\Projects\ui-pos\node_modules\tapable\lib\HookC  odeFactory.js:31:10), <anonymous>:15:1)
+      at D:\Projects\ui-pos\node_modules\enhanced-resolve\lib\DirectoryExistsPlu  gin.js:43:15
+      at process.processTicksAndRejections (node:internal/process/task_queues:88  :21)
+  Module build [1m[31mfailed[39m[22m[1m (from ./node_modules/html-loader/dist/cjs.js):
+  [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'D:\Projects\ui-pos\src\pages\p  artials\preloader.html'
+      at Object.readFileSync (node:fs:439:20)
+      at CacheBackend.provideSync (D:\Projects\ui-pos\node_modules\enhanced-reso  lve\lib\CachedInputFileSystem.js:316:65)
+      at D:\Projects\ui-pos\webpack.config.js:16:26
+      at String.replace (<anonymous>)
+      at Object.processNestedHtml [as preprocessor] (D:\Projects\ui-pos\webpack.  config.js:12:15)
+      at Object.loader (D:\Projects\ui-pos\node_modules\html-loader\dist\index.j  s:22:29)
+  ModuleBuildError: Module build [1m[31mfailed[39m[22m[1m (from ./node_modules/html-loader/dist/cj  s.js):
+  [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'D:\Projects\ui-pos\src\pages\p  artials\preloader.html'
+      at Object.readFileSync (node:fs:439:20)
+      at CacheBackend.provideSync (D:\Projects\ui-pos\node_modules\enhanced-reso  lve\lib\CachedInputFileSystem.js:316:65)
+      at D:\Projects\ui-pos\webpack.config.js:16:26
+      at String.replace (<anonymous>)
+      at Object.processNestedHtml [as preprocessor] (D:\Projects\ui-pos\webpack.  config.js:12:15)
+      at Object.loader (D:\Projects\ui-pos\node_modules\html-loader\dist\index.j  s:22:29)
+      at processResult (D:\Projects\ui-pos\node_modules\webpack\lib\NormalModule  .js:961:19)
+      at D:\Projects\ui-pos\node_modules\webpack\lib\NormalModule.js:1163:5
+      at D:\Projects\ui-pos\node_modules\loader-runner\lib\LoaderRunner.js:499:1  1
+      at runSyncOrAsyncCallback (D:\Projects\ui-pos\node_modules\loader-runner\l  ib\LoaderRunner.js:259:19)
+  
+  - Compilation.js:2073 
+    [ui-pos]/[webpack]/lib/Compilation.js:2073:28
+  
+  - NormalModuleFactory.js:1041 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1041:13
+  
+  
+  - NormalModuleFactory.js:437 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:437:22
+  
+  
+  - NormalModuleFactory.js:622 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:622:22
+  
+  - NormalModuleFactory.js:181 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:181:10
+  
+  - NormalModuleFactory.js:894 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:894:25
+  
+  - NormalModuleFactory.js:1126 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1126:8
+  
+  - NormalModuleFactory.js:1255 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1255:5
+  
+  - async.js:6883 
+    [ui-pos]/[neo-async]/async.js:6883:13
+  
+  - NormalModuleFactory.js:1230 Array.<anonymous>
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1230:14
+  
+  - async.js:2517 arrayEachFunc
+    [ui-pos]/[neo-async]/async.js:2517:19
+  
+  - async.js:6858 Object.parallel
+    [ui-pos]/[neo-async]/async.js:6858:9
+  
+  - NormalModuleFactory.js:1154 NormalModuleFactory._resolveResourceErrorHints
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1154:12
+  
+  - NormalModuleFactory.js:1086 
+    [ui-pos]/[webpack]/lib/NormalModuleFactory.js:1086:18
+  
+  - Resolver.js:589 finishWithoutResolve
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:589:11
+  
+  - Resolver.js:678 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:678:14
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - DescriptionFilePlugin.js:89 
+    [ui-pos]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:89:43
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - RootsPlugin.js:38 
+    [ui-pos]/[enhanced-resolve]/lib/RootsPlugin.js:38:38
+  
+  
+  
+  - ConditionalPlugin.js:40 
+    [ui-pos]/[enhanced-resolve]/lib/ConditionalPlugin.js:40:47
+  
+  
+  
+  - ConditionalPlugin.js:40 
+    [ui-pos]/[enhanced-resolve]/lib/ConditionalPlugin.js:40:47
+  
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - DescriptionFilePlugin.js:89 
+    [ui-pos]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:89:43
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - Resolver.js:739 
+    [ui-pos]/[enhanced-resolve]/lib/Resolver.js:739:5
+  
+  
+  - DirectoryExistsPlugin.js:43 
+    [ui-pos]/[enhanced-resolve]/lib/DirectoryExistsPlugin.js:43:15
+  
+  - task_queues:88 process.processTicksAndRejections
+    node:internal/process/task_queues:88:21
+  
+  - Module build [1m[31mfailed[39m[22m[1m (from ./node_modules/html-loader/dist/cjs.js):
+  
+  - [1m[31mError[39m[22m[1m: ENOENT: no such file or directory, open 'D:\Projects\ui-pos\src\pages    \partials\preloader.html'
+  
+  - node:fs:439 Object.readFileSync
+    node:fs:439:20
+  
+  - CachedInputFileSystem.js:316 CacheBackend.provideSync
+    [ui-pos]/[enhanced-resolve]/lib/CachedInputFileSystem.js:316:65
+  
+[39m[22m
+
+[1m[31m2 ERRORS in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)[39m[22m
+webpack compiled with [1m[31m4 errors[39m[22m
